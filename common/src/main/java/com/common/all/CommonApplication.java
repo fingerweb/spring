@@ -1,15 +1,13 @@
-package com.yuyz.spring;
+package com.common.all;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan
-public class Application {
+public class CommonApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(CommonApplication.class, args);
 	}
 
 }

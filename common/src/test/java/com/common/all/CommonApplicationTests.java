@@ -1,10 +1,10 @@
-package com.yuyz.spring;
+package com.common.all;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class CommonApplicationTests {
 
 	@Test
 	void contextLoads() {
