@@ -1,4 +1,4 @@
-package com.common.all.config;
+package com.yuyz.all.config;
 
 import java.util.List;
 import java.util.Map;
@@ -6,8 +6,8 @@ import java.util.Map;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-import com.common.all.data.Member;
-import com.common.all.data.Pet;
+import com.yuyz.all.data.Member;
+import com.yuyz.all.data.Pet;
 
 import lombok.Data;
 

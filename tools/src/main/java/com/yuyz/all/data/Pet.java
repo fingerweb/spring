@@ -1,4 +1,4 @@
-package com.common.all.data;
+package com.yuyz.all.data;
 
 import lombok.Data;
 
