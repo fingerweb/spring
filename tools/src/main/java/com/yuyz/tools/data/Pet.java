@@ -1,4 +1,4 @@
-package com.yuyz.all.data;
+package com.yuyz.tools.data;
 
 import lombok.Data;
 
