@@ -1,0 +1,15 @@
+spring.family: 
+    address: China
+    family-member: 
+        - {name: Petter,age: 30,profession: engineer}
+        - {name: AnNa,age: 28,profession: teacher}
+        - {name: Jack,age: 5,profession: student}
+    Pets: 
+        dog: 
+            name: aHuang
+            call: wangwang
+            species: DOG
+        cat: 
+            name: mimi
+            call: miaomiao
+            species: CAT
